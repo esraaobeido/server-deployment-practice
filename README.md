@@ -1,4 +1,10 @@
 # server-deployment-practice
+[server online](https://onlineserver3.onrender.com/)
+
+[Pull request](https://github.com/esraaobeido/server-deployment-practice/pull/1)
+
+[Github Action](https://github.com/esraaobeido/server-deployment-practice/actions)
+
 - At first we talked about the node.js runtime environment for running javascript off the server and we did a quick review of Express( its a framework for node.js) as well.
 - after that we talked about CI/CD, its stands for Continuous Integration and Continuous Deployment. It is a set of practices and tools used in software development to automate the building, testing, and deployment of applications, then build a simple server.
 
